@@ -1,5 +1,5 @@
 # Canal-del-Clima
-## Cuarto Proyecto realizado en Plataforma 5-
+## Proyecto utilizando Apis's y AJAX.
 
 Hacer una página web que te diga el clima en distintas partes del mundo.
 
